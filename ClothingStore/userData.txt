@@ -1,0 +1,5 @@
+Lizzy Molokomme,lizzy.m@clothingstore.co.za,LizzyPass123,verified,admin
+Mulwali,mulwali@clothingstore.co.za,Mulwali789!,verified,customer
+Bridgette,bridgette@clothingstore.co.za,BridgePass55,pending,customer
+Shakes,shakes@clothingstore.co.za,ShakesAnalyst1,verified,customer
+Given Baloyi,GivenBaloyi@clothingstore.co.za.,YouSecret123,pending,customer
